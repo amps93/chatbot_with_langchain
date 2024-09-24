@@ -8,6 +8,10 @@ gradio = "*"
 python-dotenv = "*"
 langchain = "*"
 langchain-openai = "*"
+pymupdf = "*"
+langchain-community = "*"
+chromadb = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
