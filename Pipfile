@@ -12,6 +12,9 @@ pymupdf = "*"
 langchain-community = "*"
 chromadb = "*"
 faiss-cpu = "*"
+langserve = {extras = ["all"], version = "*"}
+langchain-cli = "*"
+pydantic = "*"
 
 [dev-packages]
 

@@ -8,7 +8,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_gradio/chatbot_pdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot_gradio/chatbot_pdf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_gradio/db/faiss/index.faiss" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot_gradio/db/faiss/index.faiss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chatbot_gradio/db/faiss/index.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot_gradio/db/faiss/index.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,7 @@
     "Python.chatbot_pdf.executor": "Run",
     "Python.chatbot_with_prompt.executor": "Run",
     "Python.gradio_test.executor": "Run",
+    "Python.server.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
